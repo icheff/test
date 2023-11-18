@@ -1,4 +1,0 @@
-{
-  "pageId": "krNIWweAxk",
-  "pageHtml": "<section id=\"ONCLpOd\" data-type=\"section\"><style id=\"bDxWGux\" type=\"text/css\">@media screen and (min-width:0px){#IzpHDiw{width:100vw;height:100vh;position:relative}}@media screen and (min-width:0px){#jSOucIF{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-1;}}@media screen and (min-width:0px){#Vdhgoig{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-1;}}</style><div id=\"THsbFKK\" data-type=\"background\"><video id=\"Vdhgoig\" autoplay=\"\" loop=\"\" muted=\"\" playsinline=\"\"><source data-mobile=\"./assets/video/mobile.mp4\" data-tablet=\"./assets/video/tablet.mp4\" data-pc=\"./assets/video/pc.mp4\" src=\"\"></video></div><button class=\"toolbar-open\" onclick=\"toolsOpenModal(this);\"><img src=\"./assets/svg/icons/settings.svg\"></button><script>alert('hiiiiiii');</script></section>"
-}
