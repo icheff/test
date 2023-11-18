@@ -1,4 +1,0 @@
-{
-  "pageId": "XqLbIxIcUK",
-  "pageHtml": "<section id=\"XSnPPfe\" data-type=\"section\"><style id=\"jGjzeJI\" type=\"text/css\">@media screen and (min-width:0px){#KmftOii{width:100vw;height:100vh;position:relative}}@media screen and (min-width:0px){#ZCaVGVe{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-1;}}@media screen and (min-width:0px){#oyFOWTF{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-1;}}</style><div id=\"uibNXFn\" data-type=\"background\"><video id=\"oyFOWTF\" autoplay=\"\" loop=\"\" muted=\"\" playsinline=\"\" src=\"./assets/video/mobile.mp4\"><source data-mobile=\"./assets/video/mobile.mp4\" data-tablet=\"./assets/video/tablet.mp4\" data-pc=\"./assets/video/pc.mp4\" src=\"\"></video></div><button class=\"toolbar-open\" onclick=\"toolsOpenModal(this);\"><img src=\"./assets/svg/icons/settings.svg\"></button></section>"
-}
