@@ -1,4 +1,0 @@
-{
-  "pageId": "jBPxgNVfTF",
-  "pageHtml": "<section id=\"apaZMdb\" data-type=\"section\"><style id=\"NYIZyDH\" type=\"text/css\">/* tus estilos CSS aqu\\u00ed */</style><div id=\"ksGbfDF\" data-type=\"background\"><video id=\"GBeYzVv\" autoplay=\"\" loop=\"\" muted=\"\" playsinline=\"\" src=\"./assets/video/mobile.mp4\"><source data-mobile=\"./assets/video/mobile.mp4\" data-tablet=\"./assets/video/tablet.mp4\" data-pc=\"./assets/video/pc.mp4\" src=\"\"></video></div><button class=\"toolbar-open\" onclick=\"toolsOpenModal(this);\"><img src=\"./assets/svg/icons/settings.svg\"></button><!-- No incluyas el script aquí --><script>setVideoSource('GBeYzVv')</script></section>"
-}
